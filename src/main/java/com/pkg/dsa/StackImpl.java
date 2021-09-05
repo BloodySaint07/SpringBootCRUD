@@ -104,6 +104,10 @@ public class StackImpl {
 		s.print();
 		s.pop();
 		s.print();
+		
+		
+		//Tortoise Git Check
+		//Line 2 Check
 
 	}
 }
